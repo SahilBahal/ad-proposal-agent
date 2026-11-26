@@ -1,4 +1,4 @@
-# Ad Proposal Agent: Sample Data (Synthetic)
+# Ad Proposal Agent
 
 > **Synthetic data.** Northline Media and every advertiser, agency, person and number in this file are fictional, created for a portfolio demo.
 
