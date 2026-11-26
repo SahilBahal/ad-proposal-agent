@@ -1,0 +1,11 @@
+brief_id,test_type,docs_that_should_be_retrieved,what_the_agent_should_catch
+B01,Clean brief,newsletter_rate_card_2027; podcast_rate_card_2027; daily_ledger_audience; pricing_and_discount_policy,All fields present; plan near $75K; 5% volume discount if over $50K; no restrictions
+B02,Sold-out conflict,inventory_availability_h1_2027; pocket_markets_audience; newsletter_rate_card_2027,Flag Pocket Markets primary + secondary sold out Apr 1–15; offer text classified or Money Moves (note April is limited)
+B03,Restricted category,ad_guidelines_and_restricted_categories; inventory_availability_h1_2027; playbook_weekly_audience,"Sportsbook not allowed in Daily Ledger; only Playbook Weekly/Extra Innings/geo-targeted Sports display; Playbook primary sold out Mar 19, Mar 26, Apr 2"
+B04,Below minimum,pricing_and_discount_policy,$6K is under $10K minimum; no geo-targeting on newsletters; suggest classified package or decline politely
+B05,Missing fields + review,ad_guidelines_and_restricted_categories,Flag missing budget and exact dates; weight-loss medication telehealth needs Legal review (+5 business days)
+B06,Agency + max discount,pricing_and_discount_policy; byte_size_audience; branded_content_rate_card_2027; display_and_video_rate_card_2027,4 channels: 15% volume + 5% bundle = 20% cap; 15% agency commission on discounted gross
+B07,Q4 premium,pricing_and_discount_policy; newsletter_rate_card_2027; display_and_video_rate_card_2027,+20% on Field Notes lines (Nov–Dec); no premium on YouTube/video
+B08,Crypto review + timing,ad_guidelines_and_restricted_categories,Legal review adds 5 business days; crypto not allowed in dedicated sends; replace dedicated send with primary
+B09,Not accepted,ad_guidelines_and_restricted_categories,"Political/ballot measure ads not accepted; decline politely, no pricing"
+B10,Discount above policy,pricing_and_discount_policy; 2026-03_tallyroot,Max 15% here (10% volume + 5% bundle); 30% needs VP approval and should not be promised; reference past Tallyroot campaign
